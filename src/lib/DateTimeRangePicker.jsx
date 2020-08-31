@@ -1,5 +1,5 @@
 import React from 'react';
-import './style/DateTimeRange.css';
+// import './style/DateTimeRange.css';
 import Fragment from 'react-dot-fragment';
 import moment from 'moment';
 import PropTypes from 'prop-types';

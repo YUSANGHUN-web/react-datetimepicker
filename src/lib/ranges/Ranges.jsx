@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style/DateTimeRange.css';
+// import '../style/DateTimeRange.css';
 import PropTypes from 'prop-types';
 import RangeButton from './RangeButton';
 import { mobileBreakPoint } from '../DateTimeRangeContainer';

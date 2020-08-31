@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style/DateTimeRange.css';
+// import '../style/DateTimeRange.css';
 import {
   getCalendarGridClassName,
   getCalendarGridHeaderClassName,

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style/DateTimeRange.css';
+// import '../style/DateTimeRange.css';
 import momentPropTypes from 'react-moment-proptypes';
 import PropTypes from 'prop-types';
 import Cell from './Cell';

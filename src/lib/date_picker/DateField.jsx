@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style/DateTimeRange.css';
+// import '../style/DateTimeRange.css';
 import { InputGroup, FormControl, Glyphicon } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import {darkTheme, lightTheme} from "../utils/StyleUtils";
