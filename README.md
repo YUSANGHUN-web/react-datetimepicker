@@ -1,3 +1,9 @@
+# 변경사항
+next.js 에서 사용하기 위해 소스를 변경하였습니다.
+<br>
+사용법은 동일하되 _app.js에 추가되는 global.scss내에 다음 사항을 추가해주세요.
+> @import "~react-advanced-datetimerange-picker/dist/style/DateTimeRange.css";
+
 # React Advanced  Date Time Range Picker
 [![CircleCI](https://circleci.com/gh/v0ltoz/react-datetimepicker.svg?style=svg)](https://circleci.com/gh/v0ltoz/react-datetimepicker)
 [![](https://badge.fury.io/js/react-advanced-datetimerange-picker.svg)](https://www.npmjs.com/package/react-advanced-datetimerange-picker)
